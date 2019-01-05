@@ -1,0 +1,18 @@
+
+Name of QuantLet : PCA-SVM
+
+Published in : 
+
+Description : 'Time series classification using PCA + SVM.'
+
+Keywords : 
+- time series
+- classification
+- PCA
+- SVM
+- plot
+
+Author : Keyan Liu
+
+Submitted : Sat, January 05 2019 by Keyan Liu
+
