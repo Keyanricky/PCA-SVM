@@ -1,9 +1,9 @@
 
 Name of QuantLet : PCA-SVM
 
-Published in : 
+Published in : Statistics of Financial Markets I
 
-Description : 'Time series classification using PCA + SVM.'
+Description : 'Time series classification using PCA + SVM. Examples in cryptocurrency market.'
 
 Keywords : 
 - time series
